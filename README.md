@@ -1,5 +1,5 @@
 # mackenzie-iac
 
-Repositorio para aula deIaC - Mackenzie
+Repositorio para aula de IaC - Mackenzie
 
 Item 1
